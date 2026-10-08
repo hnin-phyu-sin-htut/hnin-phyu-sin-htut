@@ -67,30 +67,6 @@ Currently expanding my backend development skills in **Spring Security, JWT Auth
 
 ---
 
-## Featured Projects
-
-### Banking System
-
-A Java-based banking system developed to practice backend development concepts, object-oriented programming, database operations, and application architecture.
-
-**Technologies**
-
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate ORM` `MySQL`
-
-**Concepts**
-
-* Customer Management
-* Account Management
-* Deposit and Withdrawal
-* Fund Transfer
-* Transaction Records
-* Database Relationships
-* REST API Development
-
-[View Repository](https://github.com/hnin-phyu-sin-htut/simple-banking-system)
-
----
-
 ## Currently Exploring
 
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
