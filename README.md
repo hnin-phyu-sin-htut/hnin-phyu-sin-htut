@@ -62,10 +62,11 @@ using <strong>Java</strong> and the <strong>Spring Technologies</strong>."***
 
 ## 🌱 Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/JWT_Authentication-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
-  <img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge" alt="Microservices" />
-</p>
+| Category          | Technologies                                                                                                                                         |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Authentication | <img src="https://img.shields.io/badge/JWT_Authentication-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" /> |
+| Architecture  | <img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge" alt="Microservices" />                                              |
+| Databases      | <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />                                   |
 
 > ***"Passionate about continuously deepening my expertise in backend security and distributed systems."***
 
